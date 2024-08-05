@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, intial-scale=1.0">
+        <title>resume</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+<body>
+    <div class="container">
+        <div class="header">
+        <div class="img-area">
+            <img src="D:\New folder\e4fc264d-d0b6-42e5-a05a-73379ed54ca0.jpeg" alt="">
+        </div>
+        <h1>krina chothani</h1>
+        <h3>web developer</h3>
+        </div>
+        <div class="main">
+            <div class="left">
+                <h2>about</h2>
+                <p><strong>name:</strong>krina chothani</p>
+                <p><strong>age:</strong>20</p>
+                <p><strong>email:</strong>krina123@gmail.com</p>
+                <p><strong>phone:</strong>7485936500</p>
+            <h2>skills</h2>
+            <ul>
+                <li>HTML/CSS</li>
+                <li>javascript</li>
+                <li>python</li>
+                <li>jquery</li>
+                <li>sql</li>
+            </ul>
+            <h2>Education</h2>
+            <p>bachelor of computer application</p>
+            <p>sdj international college</p>
+            <p>vnsgu,vesu,surat.</p>
+            </div>
+            <div class="right">
+                <h2>project</h2>
+                <p>library management system</p>
+                <ul>
+                    <li>developed a web-based library management system using HTML,CSS bootstrap and javascript</li>
+            </div>
+        </div>
+    </div>    
+</body>
+</html>
